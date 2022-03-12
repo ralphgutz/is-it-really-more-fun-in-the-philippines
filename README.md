@@ -4,7 +4,9 @@ The World Happiness Report is a publication of the Sustainable Development Solut
 
 This analysis seeks to answer the following questions:
 
-What is the state of the happiness score of the Philippines in the world?
-What are the factors that highly affect the happiness score of the Philippines?
-Does GDP per capita influence the happiness score of the Philippines? How strong is the correlation between two features?
+1. What is the state of the happiness score of the Philippines in the world?
+2. What are the factors that highly affect the happiness score of the Philippines?
+3. Does GDP per capita influence the happiness score of the Philippines? How strong is the correlation between two features?
+
+
 The datasets used in this analysis are retrieved from https://worldhappiness.report/ed/2021/.
